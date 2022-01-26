@@ -1,0 +1,7 @@
+name: Swiftype Hooks
+type: module
+description: 'Module for indexing/deindexing on node saves'
+dependencies:
+package: UVA
+core: 8.x
+core_version_requirement: ^8 || ^9

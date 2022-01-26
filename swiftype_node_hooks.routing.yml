@@ -1,0 +1,7 @@
+swiftype_node_hooks.settings:
+  path: '/admin/config/swiftype_node_hooks'
+  defaults:
+    _form: '\Drupal\swiftype_node_hooks\Form\SettingsForm'
+    _title: 'Swiftype Settings'
+  requirements:
+    _permission: 'administer site configuration'

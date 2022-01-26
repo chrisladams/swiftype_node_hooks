@@ -1,0 +1,5 @@
+swiftype_node_hooks.settings:
+  title: 'Swiftype Settings'
+  description: 'Integrate Swiftype API settings'
+  route_name: swiftype_node_hooks.settings
+  parent: 'system.admin_config_content'
